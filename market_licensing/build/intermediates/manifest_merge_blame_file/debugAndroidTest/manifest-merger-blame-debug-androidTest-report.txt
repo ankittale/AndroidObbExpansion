@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.android.vending.licensing.test" >
+4
+5    <uses-sdk
+5-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:11:5-15:91
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:11:22-75
+11        android:functionalTest="false"
+11-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:13:22-53
+13        android:label="Tests for com.google.android.vending.licensing.test"
+13-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:15:22-89
+14        android:targetPackage="com.google.android.vending.licensing.test" />
+14-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:12:22-87
+15    <!-- Devices >= 3 have version of Android Market that supports licensing. -->
+16    <!-- <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="29" /> -->
+17    <!-- Required permission to check licensing. -->
+18    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+18-->[__tested_artifact__::market_licensing] /home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-73
+18-->[__tested_artifact__::market_licensing] /home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:22-70
+19
+20    <application android:debuggable="true" >
+20-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:7:5-9:19
+20-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:7:18-43
+21        <uses-library android:name="android.test.runner" />
+21-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:8:9-60
+21-->/home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4218999467756720176.xml:8:23-57
+22    </application>
+23
+24</manifest>

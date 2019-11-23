@@ -1,0 +1,19 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.vending.expansion.downloader"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/src/main/AndroidManifest.xml
+10
+11    <!-- <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="15"/> -->
+12
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/src/main/AndroidManifest.xml:9:5-79
+13-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/src/main/AndroidManifest.xml:9:22-76
+14
+15</manifest>

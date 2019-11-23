@@ -1,0 +1,12 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.vending.expansion.zipfile"
+4    android:versionCode="2"
+5    android:versionName="1.1" > <!-- <uses-sdk android:minSdkVersion="5" android:targetSdkVersion="15" /> -->
+6    <uses-sdk
+7        android:minSdkVersion="21"
+7-->/home/ankit/AndroidStudioProjects/ObbExpansion/zip_file/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="29" />
+8-->/home/ankit/AndroidStudioProjects/ObbExpansion/zip_file/src/main/AndroidManifest.xml
+9
+10</manifest>

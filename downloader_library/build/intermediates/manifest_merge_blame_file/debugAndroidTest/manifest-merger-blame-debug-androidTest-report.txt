@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.vending.expansion.downloader.test" >
+4
+5    <uses-sdk
+5-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:11:5-15:95
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:11:22-75
+11        android:functionalTest="false"
+11-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:13:22-53
+13        android:label="Tests for com.android.vending.expansion.downloader.test"
+13-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:15:22-93
+14        android:targetPackage="com.android.vending.expansion.downloader.test" />
+14-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:12:22-91
+15    <!-- <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="15"/> -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Devices >= 3 have version of Android Market that supports licensing. -->
+16-->[__tested_artifact__::downloader_library] /home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+16-->[__tested_artifact__::downloader_library] /home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+17    <!-- <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="29" /> -->
+18    <!-- Required permission to check licensing. -->
+19    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+19-->[:market_licensing] /home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-73
+19-->[:market_licensing] /home/ankit/AndroidStudioProjects/ObbExpansion/market_licensing/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:22-70
+20
+21    <application
+21-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:7:5-9:19
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/f01b27bb220ecb79298884ef36a7a2fb/core-1.1.0/AndroidManifest.xml:24:18-86
+23        android:debuggable="true" >
+23-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:7:18-43
+24        <uses-library android:name="android.test.runner" />
+24-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:8:9-60
+24-->/home/ankit/AndroidStudioProjects/ObbExpansion/downloader_library/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5775077659653187788.xml:8:23-57
+25    </application>
+26
+27</manifest>
