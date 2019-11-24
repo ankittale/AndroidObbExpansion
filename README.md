@@ -1,4 +1,4 @@
-#AndroidAPKExpansion
+#***Android APK Expansion***
 
 In the previous month, our team was working on an application where we need to ship around 2GB of assets consist of Music, Audio and Image Files. As the project was written we hit the road-block where we learned that we can ship **APK extension file up to 100 MB on Play Store and AAB file 150 MB**. We started to searching/querying about way expansion we followed the documentation, on Android Developer, and way googled it.... we also track some of the communities for implementation but we are not getting a proper workaround so based on trial and error we developed the expansion concept.
 
