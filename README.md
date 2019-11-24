@@ -48,3 +48,23 @@ Table  and meaning of Command-line character
 -ov    ---> Create an OBB file that is an overlay of an existing OBB file structure. This option allows the new package contents to be mounted into the same location as a previous package and is intended for creating patch versions of previously generated OBB files. Files within an overlay OBB file replace files that have the same path.
 
 -dump <filename> ---> Extract the contents of the specified OBB file. When using this option, you must also specify the output directory for the contents using the -d <directory> parameter.
+  
+- **Using ZIP Command Tools**:
+1. In this way, we can use zip command to build a 0% compress zip file which will be uploaded to Play Store and will download as obb file when APK is downloaded.
+2. In Linux based system you can develop a 0% compress zip using the command 
+    
+    - zip -n -r FILENAME.zip FOLDER_WITH_FILES_TO_ZIP
+
+Where n = 0 to any number to keep compress ratio, but if you had mp3, mp4 file keeps 0% compression compulsory. 
+
+- You can fire this command on any path just need to keep track with zip tools are installed.
+
+- For Windows:
+1. You can use Winrar and using Stored procedure can create a 0% compress zip
+2. Check this link for creation in Android(Windows Only).
+    
+    - https://stackoverflow.com/a/21982186
+    
+ - From Android Developer to Android Community.
+ 
+ This is **initial draft and will be updated with time and space** (2019)
